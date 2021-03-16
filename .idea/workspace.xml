@@ -24,7 +24,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../.." />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -39,6 +39,8 @@
       <workItem from="1615897730273" duration="718000" />
       <workItem from="1615905371353" duration="769000" />
       <workItem from="1615915133023" duration="60000" />
+      <workItem from="1615922262121" duration="81000" />
+      <workItem from="1615922474787" duration="13000" />
     </task>
     <task id="LOCAL-00001" summary="deploy">
       <created>1615663963729</created>
@@ -68,7 +70,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615905786845</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added : &#10;9 animations &#10;new top bar &#10;font awesome icon by cdn">
+      <created>1615922312601</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1615922312601</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,6 +99,7 @@
     <MESSAGE value="deploy" />
     <MESSAGE value="update : &#10;-view&#10;-expand navbar&#10;-bigger sidebar&#10;-flex anchors" />
     <MESSAGE value="Added : &#10;Animation to Welcome component &#10;Resize diamong in sidebar &#10;Add SASS" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added : &#10;Animation to Welcome component &#10;Resize diamong in sidebar &#10;Add SASS" />
+    <MESSAGE value="Added : &#10;9 animations &#10;new top bar &#10;font awesome icon by cdn" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added : &#10;9 animations &#10;new top bar &#10;font awesome icon by cdn" />
   </component>
 </project>
