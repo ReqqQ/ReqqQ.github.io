@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="acc56288-69ce-4e2c-8d4c-54da12feeb39" name="Default Changelist" comment="deploy" />
+    <list default="true" id="acc56288-69ce-4e2c-8d4c-54da12feeb39" name="Default Changelist" comment="deploy">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +37,8 @@
       <updated>1615663933520</updated>
       <workItem from="1615663934623" duration="130000" />
       <workItem from="1615897730273" duration="718000" />
-      <workItem from="1615905371353" duration="347000" />
+      <workItem from="1615905371353" duration="769000" />
+      <workItem from="1615915133023" duration="60000" />
     </task>
     <task id="LOCAL-00001" summary="deploy">
       <created>1615663963729</created>
@@ -58,7 +61,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615905423784</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added : &#10;Animation to Welcome component &#10;Resize diamong in sidebar &#10;Add SASS">
+      <created>1615905786845</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1615905786845</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
