@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="acc56288-69ce-4e2c-8d4c-54da12feeb39" name="Default Changelist" comment="deploy">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="acc56288-69ce-4e2c-8d4c-54da12feeb39" name="Default Changelist" comment="deploy" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,6 +35,7 @@
       <updated>1615663933520</updated>
       <workItem from="1615663934623" duration="130000" />
       <workItem from="1615897730273" duration="718000" />
+      <workItem from="1615905371353" duration="347000" />
     </task>
     <task id="LOCAL-00001" summary="deploy">
       <created>1615663963729</created>
@@ -52,7 +51,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615897845519</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added : &#10;Animation to Welcome component &#10;Resize diamong in sidebar &#10;Add SASS">
+      <created>1615905423784</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1615905423784</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -73,6 +79,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="deploy" />
     <MESSAGE value="update : &#10;-view&#10;-expand navbar&#10;-bigger sidebar&#10;-flex anchors" />
-    <option name="LAST_COMMIT_MESSAGE" value="update : &#10;-view&#10;-expand navbar&#10;-bigger sidebar&#10;-flex anchors" />
+    <MESSAGE value="Added : &#10;Animation to Welcome component &#10;Resize diamong in sidebar &#10;Add SASS" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added : &#10;Animation to Welcome component &#10;Resize diamong in sidebar &#10;Add SASS" />
   </component>
 </project>
