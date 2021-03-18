@@ -41,6 +41,8 @@
       <workItem from="1615915133023" duration="60000" />
       <workItem from="1615922262121" duration="81000" />
       <workItem from="1615922474787" duration="13000" />
+      <workItem from="1615922576780" duration="136000" />
+      <workItem from="1615980242529" duration="27000" />
     </task>
     <task id="LOCAL-00001" summary="deploy">
       <created>1615663963729</created>
@@ -77,7 +79,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615922312601</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="fix">
+      <created>1615922647785</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1615922647785</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,6 +109,7 @@
     <MESSAGE value="update : &#10;-view&#10;-expand navbar&#10;-bigger sidebar&#10;-flex anchors" />
     <MESSAGE value="Added : &#10;Animation to Welcome component &#10;Resize diamong in sidebar &#10;Add SASS" />
     <MESSAGE value="Added : &#10;9 animations &#10;new top bar &#10;font awesome icon by cdn" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added : &#10;9 animations &#10;new top bar &#10;font awesome icon by cdn" />
+    <MESSAGE value="fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix" />
   </component>
 </project>
