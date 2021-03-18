@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="acc56288-69ce-4e2c-8d4c-54da12feeb39" name="Default Changelist" comment="deploy">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="acc56288-69ce-4e2c-8d4c-54da12feeb39" name="Default Changelist" comment="deploy" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,6 +41,7 @@
       <workItem from="1615922474787" duration="13000" />
       <workItem from="1615922576780" duration="136000" />
       <workItem from="1615980242529" duration="27000" />
+      <workItem from="1616087400901" duration="367000" />
     </task>
     <task id="LOCAL-00001" summary="deploy">
       <created>1615663963729</created>
@@ -86,7 +85,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615922647785</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="deploy">
+      <created>1616087500937</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1616087500937</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,11 +111,11 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="deploy" />
     <MESSAGE value="update : &#10;-view&#10;-expand navbar&#10;-bigger sidebar&#10;-flex anchors" />
     <MESSAGE value="Added : &#10;Animation to Welcome component &#10;Resize diamong in sidebar &#10;Add SASS" />
     <MESSAGE value="Added : &#10;9 animations &#10;new top bar &#10;font awesome icon by cdn" />
     <MESSAGE value="fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix" />
+    <MESSAGE value="deploy" />
+    <option name="LAST_COMMIT_MESSAGE" value="deploy" />
   </component>
 </project>
